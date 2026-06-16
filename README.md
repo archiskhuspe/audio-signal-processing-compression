@@ -2,7 +2,6 @@
 
 ![MATLAB](https://img.shields.io/badge/MATLAB-R2012b%2B-0076A8?logo=mathworks&logoColor=white)
 ![License](https://img.shields.io/badge/license-MIT-green)
-![Repo Size](https://img.shields.io/github/repo-size/archiskhuspe/audio-signal-processing-compression)
 
 A MATLAB script demonstrating core audio signal processing concepts and lossy frequency-domain compression using the FFT.
 
