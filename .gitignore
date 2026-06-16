@@ -1,0 +1,10 @@
+# MATLAB autosave and temp files
+*.asv
+*.m~
+octave-workspace
+
+# OS
+.DS_Store
+
+# Generated compressed audio output
+audio1_*pct_compressed.wav
